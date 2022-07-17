@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<employees>
+    <employee id="1">
+        <firstName>Mike</firstName>
+        <lastName>Braun</lastName>
+        <phoneNumber>+375 29 1234567</phoneNumber>
+        <password>qwerty</password>
+        <tag>worker at factory</tag>
+        <userRoleId>19</userRoleId>
+    </employee><employee id="2">
+        <firstName>Nick</firstName>
+        <lastName>Johnson</lastName>
+        <phoneNumber>+1 158 5554567</phoneNumber>
+        <password>ytrewq</password>
+        <tag>policeman</tag>
+        <userRoleId>18</userRoleId>
+    </employee>
+    <employee id="3">
+        <firstName>Arturs</firstName>
+        <lastName>Karinsh</lastName>
+        <phoneNumber>+371 11 1112233</phoneNumber>
+        <password>password</password>
+        <tag>prime-minister</tag>
+        <userRoleId>17</userRoleId>
+    </employee>
+    <employee id="4">
+        <firstName>Donald</firstName>
+        <lastName>Trump</lastName>
+        <phoneNumber>+1 987 7654321</phoneNumber>
+        <password>great America again</password>
+        <tag>ex-president</tag>
+        <userRoleId>16</userRoleId>
+    </employee>
+    <employee id="5">
+        <firstName>Joseph</firstName>
+        <lastName>Biden</lastName>
+        <phoneNumber>+1 111 1111111</phoneNumber>
+        <password>White_House</password>
+        <tag>president</tag>
+        <userRoleId>15</userRoleId>
+    </employee>
+</employees>
