@@ -26,7 +26,7 @@ public class StAXDemo {
         }
 
         // write
-        try (OutputStream out = new FileOutputStream("out/resultXML/employees.xml")) {
+        try (OutputStream out = new FileOutputStream("src/com/belhard/xmlHomeTask/result/employees.xml")) {
             List<Employee> employees = repo.getAll();
             writer.serialize(employees, out);
         } catch (IOException | XMLStreamException e) {
