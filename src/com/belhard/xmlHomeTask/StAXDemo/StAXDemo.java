@@ -3,13 +3,13 @@ package com.belhard.xmlHomeTask.StAXDemo;
 import com.belhard.xmlHomeTask.Employee;
 import com.belhard.xmlHomeTask.EmployeeRepositoryInMemory;
 
+import java.util.List;
 import javax.xml.stream.XMLStreamException;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
-import java.util.List;
 
 public class StAXDemo {
     private static final StAXReader reader = new StAXReader();
