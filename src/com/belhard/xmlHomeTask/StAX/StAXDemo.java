@@ -1,4 +1,4 @@
-package com.belhard.xmlHomeTask.StAXDemo;
+package com.belhard.xmlHomeTask.StAX;
 
 import com.belhard.xmlHomeTask.Employee;
 import com.belhard.xmlHomeTask.EmployeeRepositoryInMemory;
